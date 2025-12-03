@@ -1,0 +1,24 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# 编译输出
+bin/
+target/
+*.class
+
+# 日志
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 其他常见忽略
+*.iml
+.idea/
+
+# 本地配置
+*.swp
+*.swo
