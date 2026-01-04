@@ -9,7 +9,7 @@ import static gitlet.Utils.*;
 /**
  * Represents helper methods
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Methods {
 

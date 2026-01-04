@@ -6,7 +6,7 @@ import java.util.Locale;
 /**
  * Represents gitlet-log, gitlet-global-log.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Log {
     /**

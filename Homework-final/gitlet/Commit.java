@@ -11,7 +11,7 @@ import static gitlet.Utils.*;
  * including its message, id, timestamp,
  * parent pointer, files pointer
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Commit implements Serializable {
     /**

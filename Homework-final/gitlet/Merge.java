@@ -11,7 +11,7 @@ import static gitlet.Utils.*;
 /**
  * Represents gitlet-merge.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Merge {
     /**

@@ -14,7 +14,7 @@ import static gitlet.Utils.plainFilenamesIn;
 /**
  * Represents gitlet-status.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Status {
     /**

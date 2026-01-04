@@ -10,7 +10,7 @@ import static gitlet.Utils.join;
 /**
  * Represents gitlet branch pointer object.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Branch implements Serializable {
     /**

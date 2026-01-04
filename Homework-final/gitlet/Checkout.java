@@ -9,7 +9,7 @@ import static gitlet.Utils.*;
 /**
  * Represents gitlet-checkout and gitlet-reset.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Checkout {
     /**

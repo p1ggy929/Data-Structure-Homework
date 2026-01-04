@@ -17,7 +17,7 @@ import static gitlet.Utils.*;
  * <br>├── HEAD
  * <br>└── index
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Repository implements Serializable {
     /**

@@ -25,7 +25,7 @@ import java.io.File;
  *
  *  As illustrated, your dump method should print useful information from
  *  objects of your class.
- *  @author P. N. Hilfinger
+ *  @author Piggy Zhao
  */
 public class DumpObj {
 

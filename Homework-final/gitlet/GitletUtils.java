@@ -10,7 +10,7 @@ import static gitlet.Utils.join;
 /**
  * Represents gitlet commands
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class GitletUtils {
     /**

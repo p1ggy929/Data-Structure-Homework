@@ -10,7 +10,7 @@ import static gitlet.Utils.restrictedDelete;
 /**
  * Represents a gitlet index object, gitlet-add, gitlet-rm.
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Index implements Serializable {
     /**

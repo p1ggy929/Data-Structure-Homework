@@ -10,7 +10,7 @@ import java.util.Scanner;
  *   Command-line: java gitlet.Main <command> [args...]
  *   Interactive:  java gitlet.Main
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Main {
 

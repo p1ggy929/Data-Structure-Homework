@@ -8,7 +8,7 @@ import static gitlet.Utils.*;
 /**
  * Represents a blob object of gitlet commit object
  *
- * @author Edward Tsang
+ * @author Piggy Zhao
  */
 public class Blob implements Serializable {
     /**
